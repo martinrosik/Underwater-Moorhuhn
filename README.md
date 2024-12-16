@@ -66,4 +66,4 @@ Have suggestions or found a bug? Open an issue or submit a pull request. Your in
 
 This game is licensed under the MIT License. Feel free to modify and distribute the game as you like.
 > [!IMPORTANT]
-> I take inspirations from this game: https://www.zahraj.sk/online-hra/moorhuhn-remake/ 
+> I was inspired by this game: https://www.gameflare.com/online-game/moorhuhn-remake/
